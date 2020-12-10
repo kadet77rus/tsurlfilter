@@ -2,8 +2,8 @@ name: Tsurlfilter
 
 on:
   push:
-    branches:
-      - "v*.*.*"
+#    branches:
+#      - "v*.*.*"
 
 jobs:
   build:
