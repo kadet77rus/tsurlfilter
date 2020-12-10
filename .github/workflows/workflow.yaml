@@ -2,8 +2,8 @@ name: Tsurlfilter
 
 on:
   push:
-    branches:
-      /^v\d+\.\d+\.\d+$/
+#    branches:
+#      /^v\d+\.\d+\.\d+$/
 
 jobs:
   build:
